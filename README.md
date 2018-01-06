@@ -13,5 +13,5 @@ Overview:
 Install:
 ```sh
 $ git clone https://github.com/rednes/my_scripts.git
-$ ./scripts/install.sh
+$ ./my_scripts/install.sh
 ```
