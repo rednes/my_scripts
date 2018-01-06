@@ -3,10 +3,11 @@ Useful shell scripts for me.
 
 Overview:
 
-| Script Name  | Descrption                                      |
-|:-------------|:------------------------------------------------|
-| makeAppAlias | MacのAppをターミナルで開くためのaliasを作成する |
-| my_rm        | rmコマンドでゴミ箱に移動する                    |
+| Script Name           | Descrption                                      |
+|:----------------------|:------------------------------------------------|
+| convertFromAppToAlias | MacのAppを全探索してaliasを.zshrc.appに作成する |
+| makeAppAlias          | MacのAppをターミナルで開くためのaliasを作成する |
+| my_rm                 | rmコマンドでゴミ箱に移動する                    |
 
 
 Install:
